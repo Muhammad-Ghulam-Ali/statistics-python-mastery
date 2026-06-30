@@ -135,3 +135,7 @@ P(X = 7) = (2187 × 0.0498) / 5040 = 108.9 / 5040 ≈ 0.0216
 | What it models | Measurements clustering around a mean | Number of successes in n trials | Number of events in a time period |
 | Parameters | Mean, Std Dev | n trials, p probability | λ average rate |
 | Finance example | Employee salaries, loan amounts | Number of defaults in a portfolio | Fraud cases per day |
+
+## Dataset
+Download from Kaggle: https://www.kaggle.com/datasets/nikhil1e9/loan-default
+Place the CSV file in this folder as `Loan_default.csv` before running practice.ipynb.
