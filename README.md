@@ -28,8 +28,8 @@ Each topic has:
 | 01 | Descriptive Statistics | Done |
 | 02 | Outlier Detection & Treatment | Done |
 | 03 | Probability Fundamentals | Done |
-| 04 | Distributions — Normal, Binomial, Poisson | In Progress |
-| 05 | Hypothesis Testing | Pending |
+| 04 | Distributions — Normal, Binomial, Poisson | Done |
+| 05 | Hypothesis Testing | In Progress |
 | 06 | Correlation & Covariance | Pending |
 | 07 | Bayesian Thinking | Pending |
 | 08 | Central Limit Theorem | Pending |
