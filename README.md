@@ -29,9 +29,9 @@ Each topic has:
 | 02 | Outlier Detection & Treatment | Done |
 | 03 | Probability Fundamentals | Done |
 | 04 | Distributions — Normal, Binomial, Poisson | Done |
-| 05 | Hypothesis Testing | In Progress |
-| 06 | Correlation & Covariance | Pending |
-| 07 | Bayesian Thinking | Pending |
+| 05 | Hypothesis Testing | Done |
+| 06 | Correlation & Covariance | Done |
+| 07 | Bayesian Thinking | In Progress |
 | 08 | Central Limit Theorem | Pending |
 | 09 | Sampling & Bias | Pending |
 
