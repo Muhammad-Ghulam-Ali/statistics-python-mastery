@@ -24,7 +24,7 @@ Each topic has:
 ## Progress Tracker
 
 | # | Topic | Status |
-|---|-------|--------|
+|---|-------| :--------: |
 | 01 | Descriptive Statistics | Done |
 | 02 | Outlier Detection & Treatment | Done |
 | 03 | Probability Fundamentals | Done |
